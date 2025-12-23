@@ -111,7 +111,7 @@
 <canvas id="confettiCanvas"></canvas>
 
 <div class="card">
-    <h1>🎉 Happiest Birthday Uncle 🎉</h1>
+    <h1> Happiest Birthday Mamalii</h1>
     <p class="subtitle">Wishing you a year full of joy, strength, luxury and success!</p>
 
     <!-- Fixed image link -->
@@ -119,7 +119,7 @@
 
     <button onclick="launchParty()">🎉 Celebrate!</button>
 
-    <p class="footer">Love from Dhabuu & Golu ❤️</p>
+    <p class="footer"> 🐕❤️</p>
 </div>
 
 <script>

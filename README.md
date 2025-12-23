@@ -115,7 +115,7 @@
     <p class="subtitle">Wishing you a year full of joy, strength, luxury and success!</p>
 
     <!-- Fixed image link -->
-    <img id="mainImage" src="https://i.pinimg.com/originals/2f/3c/9b/2f3c9b1d7728794f0ad64e51febde969.gif" alt="Birthday Animation">
+    <img id="mainImage" src="https://www.pinterest.com/pin/33143747254676791/" alt="Birthday Animation">
 
     <button onclick="launchParty()">🎉 Celebrate!</button>
 

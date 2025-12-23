@@ -111,7 +111,7 @@
 <canvas id="confettiCanvas"></canvas>
 
 <div class="card">
-    <h1> Happiest Birthday Mamalii</h1>
+    <h1> Happiest Birthday</h1>
     <p class="subtitle">Wishing you a year full of joy, strength, luxury and success!</p>
 
     <!-- Fixed image link -->
